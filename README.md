@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Aryan-Sv
-- 👀 I’m interested in C language and Python 
 - 🌱 I’m currently in 1st year CSE
 - 📫 How to reach me : email- aryansagar.cs24@bmsce.ac.in
 
